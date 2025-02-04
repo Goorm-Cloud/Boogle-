@@ -1,2 +1,2 @@
-# Boogle-
+# Boogle+
 Upgrade Boogle
